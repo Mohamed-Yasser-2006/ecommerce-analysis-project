@@ -1,0 +1,16 @@
+﻿Order_ID,Product,Category,Quantity,Price,City
+1,Laptop,Electronics,1,18000,Cairo
+2,Phone,Electronics,2,12000,Giza
+3,Headphones,Accessories,3,1000,Cairo
+4,Mouse,Accessories,5,600,Mansoura
+5,Laptop,Electronics,2,18000,Alexandria
+6,Phone,Electronics,1,12000,Cairo
+7,Keyboard,Accessories,4,900,Giza
+8,Taplet,Electronics,2,8000,Cairo
+9,Mouse,Accessories,6,600,Alexandria
+10,Phone,Electronics,3,12000,Mansoura
+11,Laptop,Electronics,1,18000,Cairo
+12,Headphones,Accessories,2,1000,Giza
+13,Taplet,Electronics,1,8000,Alexandria
+14,Keyboard,Accessories,3,900,Cairo
+15,Phone,Electronics,2,12000,Cairo
