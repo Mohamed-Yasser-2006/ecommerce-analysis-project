@@ -54,16 +54,22 @@ plt.title("Sales By Product")
 plt.xlabel("Product")
 plt.ylabel("Sales")
 
+plt.xticks(rotation=45)
+plt.tight_layout()
+
 plt.savefig("product_sales.png")
 plt.show()
 
-plt.figure(figsize=(8, 5))
+plt.figure(figsize=(12, 8))
 
 city_sales.sort_values(ascending=False).plot(kind="bar")
 
 plt.title("Sales By City")
 plt.xlabel("City")
 plt.ylabel("Sales")
+
+plt.xticks(rotation=45)
+plt.tight_layout()
 
 plt.savefig("city_sales.png")
 plt.show()
